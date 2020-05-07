@@ -1,0 +1,17 @@
+{
+  "name": "hashgraph",
+  "version": "1.0.0",
+  "description": "start",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Behnam Sheykhe",
+  "license": "ISC",
+  "dependencies": {
+    "@hashgraph/sdk": "^1.1.12",
+    "arraybuffer-to-string": "^1.0.2",
+    "axios": "^0.19.2",
+    "dotenv": "^8.2.0"
+  }
+}
